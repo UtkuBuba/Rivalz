@@ -1,7 +1,7 @@
 # Network3 Ubuntu Kurulum Rehberi
 
 
-### Node'u İndirme
+### Node'u İndirme.
 
 
 1. **Tar Dosyasını İndirin:**
